@@ -6,3 +6,8 @@
 ### Iván Ricardo Paredes Avilez - A01705083
 
 Nuestro proyecto consiste en la creación de contenedores de transporte de alimentos, en los que se implementará un sistema de refrigeración el cual va regulando constantemente la temperatura de este, de modo que los alimentos transportados lleguen a su destino en buenas condiciones y tengan tiempo de madurar al llegar a los mercados, y reducir el enorme desperdicio de estos.
+
+Para ello, hemos desarrollado un pequeño prototipo que consiste en tres secciones:
+Sistemas digitales
+Base de datos
+Interfaz UI/UX
