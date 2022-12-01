@@ -13,4 +13,12 @@ Sistemas digitales: Aqui hacemos uso de un Node MCU (ESP8266), un sensor de temp
 
 Base de datos: Aqui hacemos uso de phpMyAdmin, en el cual a través de un script de SQL, se ha creado una base de datos en el cual se lleva registro de los contenidos de un contendor, el historial de registros de cada hora, y los instantes en los que se registra la temperatura y la humedad, esto se logra gracias a un PHP que toma los datos creados de los sitemas digitales y añade registros a la base de datos. En el PHP se hace uso de querys de SQL, los cuales nos permiten introducir los registros a la base de datos. La base de datos esta conectada a una Página Web, por medio de otro PHP, en cual se despliegan los datos de la tabla del historial de temperaturas y humedades de cada hora del día por medio de gráficas.
 
-Página Web: 
+Página Web: Para la creación, diseño y programación de la página web, hemos utilizado HTML, CSS y JavaScript. La página contiene una portada en el cual se muestra el título del proyecto y el nombre del equipo, en el encabezado. El menú principal esta dividido en tres secciones:
+
+Contexto: Aquí se muestra una explicación breve de lo que se busca lograr con la página web, su misión y su visión.
+
+Gráficas: Esta es la parte más importante de la página web, su razón de ser. Aquí se muestran las gráficas de las temperaturas y humedades registradas en cada hora de un día. Esto fue logrado gracias a dos PHP que toman los registros de la temperatura y humedad de la base de datos, en ellos también se usan query se SQL, que permiten acceder a la base de datos y guardarlos en arreglos. Posteriormente estos datos son leidos por dos scripts, los cuales toman estos dos archivos PHP, leen sus datos y despliegan el contenido de ellos en dos gráficas. 
+
+Autores: Por último y no menos importante, como su nombre menciona, aqui se muestra los nombres de los integrantes del equipo y en que se especializó cada uno.
+
+#### Notas:
