@@ -38,4 +38,4 @@ También, las gráficas toman como base de datos, una prueba en los que se tiene
 
 5. Ejecutar el primer archivo "index.html".
 
-6. Permitir el acceso desde "configuracion avanzada".
+6. Quitar el cortafuegos desde "configuracion avanzada", esto no conlleva ningun riesgo a su computadora.
