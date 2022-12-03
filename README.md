@@ -35,3 +35,5 @@ También, las gráficas toman como base de datos, una prueba en los que se tiene
 3. Descargar los archivos de la carpeta "Página Web" o "ProyectoFinal.zip".
 
 4. Guardar la carpeta "graficas" en la carpeta de htdocs de XAMPP.
+
+5. Ejecutar el primer archivo "index.html".
