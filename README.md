@@ -37,3 +37,5 @@ También, las gráficas toman como base de datos, una prueba en los que se tiene
 4. Guardar la carpeta "graficas" en la carpeta de htdocs de XAMPP.
 
 5. Ejecutar el primer archivo "index.html".
+
+6. Permitir el acceso desde "configuracion avanzada".
