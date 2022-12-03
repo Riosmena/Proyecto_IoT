@@ -25,3 +25,13 @@ Autores: Por último y no menos importante, como su nombre menciona, aqui se mue
 Para el correcto funcionamiento de la página web, es necesario que la carpeta de nombre "graficas" de este repositorio, sea guardada en la carpeta de htdocs de XAMPP. Del mismo modo, para la correcta visualización de las gráficas, es necesario que este inicializado el XAMPP con los módulos de Apache y MySQL.
 
 También, las gráficas toman como base de datos, una prueba en los que se tienen registros similares a los de la base de datos real, esto es porque los trabajos fueron realizados en computadoras separadas. Y tuvimos el imprevisto de que el sitema operativo de una de ellas no es capaz de correr el programa de Arduino, por lo tanto no puede ejectutar los scripts de este ni enviar los registros a su correspondiente base de datos. Ambos códigos de las bases de datos, se encuentran en este repositorio.
+
+### Instrucciones para el funcionamiento correcto de la página Web
+
+1. Incializar XAMPP con los módulos de Apache y MySQL.
+
+2. En localhost, ejectutar el script de SQL, el archivo llamado "Prueba Base de datos.sql".
+
+3. Descargar los archivos de la carpeta "Página Web" o "ProyectoFinal.zip".
+
+4. Guardar la carpeta "graficas" en la carpeta de htdocs de XAMPP.
